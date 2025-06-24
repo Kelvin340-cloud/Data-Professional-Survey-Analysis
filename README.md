@@ -13,4 +13,5 @@ Analyzed survey responses from 630+ data professionals to uncover global industr
 
 ## Overview
 
-![image](https://github.com/user-attachments/assets/fb588c98-273d-43fc-ae1a-ec12495ff9df)
+![image](https://github.com/user-attachments/assets/5b27c579-5637-4477-ae3d-fae383b48a37)
+
