@@ -9,7 +9,7 @@ Analyzed survey responses from 630+ data professionals to uncover global industr
   
   - Revealed Data Scientists earn the highest salaries; students the lowest.
   
-  - Discovered 42% found it easy to break into data, challenging common assumptions.
+  - Discovered 42% of the respondents found it neither easy nor hard to break into data, challenging common assumptions.
 
 ## Overview
 
